@@ -10,7 +10,7 @@ public static void main(String[] args) {
 		System.out.println(car.hashCode());
 
 		System.out.println("=============");
-		//hello this is first day 
+		
 		
 	Car car2 = new Car("BMW", "2022", 30000);
 	System.out.println(car2.hashCode());
