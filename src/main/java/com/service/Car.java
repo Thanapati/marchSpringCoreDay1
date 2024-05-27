@@ -15,6 +15,8 @@ public class Car {
 		this.model = model;
 		this.year = year;
 		this.price = price;
+		
+		//this is second commit
 	}
 	public String getModel() {
 		return model;
